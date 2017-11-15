@@ -9,9 +9,9 @@
 
 一个练习react的音乐播放器
 
-![list](https://github.com/liustay/Music-player/raw/master/screenshot/player.png)
+![list](https://github.com/liustay/Music-player/raw/master/screenshot/pic.jpg)
 
-![list](https://github.com/liustay/Music-player/raw/master/screenshot/list.png)
+
 
 
 
