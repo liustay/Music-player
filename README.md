@@ -7,7 +7,7 @@
 ### `简介`
 
 
-一个练习react的音乐播放器
+一个react的音乐播放器
 
 ![list](https://github.com/liustay/Music-player/raw/master/screenshot/pic.jpg)
 
