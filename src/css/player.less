@@ -1,0 +1,89 @@
+.wrap {
+	width: 300px;
+	margin: 40px auto;
+}
+.cover-bg {
+	position: absolute;
+	width: 380px;
+	top: 80px;
+	left: 50%;
+	margin-left: -190px;
+	z-index: -999;
+	-webkit-filter: blur(20px); /* Chrome, Opera */
+       -moz-filter: blur(20px);
+        -ms-filter: blur(20px);    
+            filter: blur(20px);
+    filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=10, MakeShadow=false); /* IE6~IE9 */
+}
+.cover {
+	width: 260px;
+	margin: 20px auto;
+	
+	img {
+		width: 260px;
+		height: 260px;
+		border-radius: 50%;
+		box-shadow: 0 0 16px rgba(0,0,0,0.2);
+	}
+
+	p.title {
+		margin: 30px 0 10px;
+		text-align: center;
+		font-size: 1.2em;
+		line-height: 1.2em;
+		color: #3a3a3a;
+	}
+	
+	p.artist {
+		margin: 10px 0 30px;
+		text-align: center;
+		color: #666666;
+		line-height: 1.2em;
+	}
+
+}
+.time {
+	width: 100%;
+	font-weight: 300;
+	font-size: 12px;
+	margin: 5px 0 20px;
+	clear: both;
+	overflow: hidden;
+
+	.current {
+		float: left;
+	}
+	.total {
+		float: right;
+	}
+}
+.control {
+	width: 100%;
+
+	i {
+		width: 80px;
+		height: 80px;
+		display: inline-flex;
+		margin: 0 10px; 
+		background: url(../img/control.png);
+		background-repeat: no-repeat;
+		background-size: 320px 80px;
+		cursor: pointer;
+	}
+
+	.prev {
+		background-position: 0 0;
+	}
+
+	.next {
+		background-position: -240px 0;
+	}
+
+	.pause {
+		background-position: -160px 0;
+	}
+
+	.play {
+		background-position: -80px 0;
+	}
+}
