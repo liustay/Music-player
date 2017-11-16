@@ -12,6 +12,9 @@
 ![list](https://github.com/liustay/Music-player/raw/master/screenshot/player.jpg)
 
 
+ [demo](https://liustay.github.io/Music-player/build/#/)
+
+
 
 
 
