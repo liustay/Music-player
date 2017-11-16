@@ -12,10 +12,8 @@
 ![list](https://github.com/liustay/Music-player/raw/master/screenshot/player.jpg)
 
 
- [demo](https://liustay.github.io/Music-player/build/#/)
-
-
-
+ [demo预览链接](https://liustay.github.io/Music-player/build/#/)  （有个bug，在safari浏览器下加载不到音乐）
+ 
 
 
 
